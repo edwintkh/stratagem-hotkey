@@ -4,6 +4,8 @@ Stratagem Hotkeys is designed as a companion tool to help new players for the He
 
 ## Installation
 
+[Download](/win-x64/StratagemHotkeys.exe)
+
 This app runs on windows 10/11 64bit.
 After downloading the zip and unzipping the file, Click on stragatemhotkeys.exe to run.
 Currently Microsoft Defender Smart screen will show that it is an untrusted app as it takes time to build trust. 
