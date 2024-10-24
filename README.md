@@ -8,8 +8,12 @@ This app runs on windows 10/11 64bit.
 After downloading the zip and unzipping the file, Click on stragatemhotkeys.exe to run.
 Currently Microsoft Defender Smart screen will show that it is an untrusted app as it takes time to build trust. 
 
-If you are unsure you can scan it with microsoft defender with these steps:
-To scan specific files or folders, right-click a file or folder, select Show more options, and then select Scan with Microsoft Defender. When the scan is complete, you'll see the Scan options page letting you know the results of the scan.
+If you are unsure about the app, You can scan it with microsoft defender with these steps:
+To scan specific files or folders, right-click a file or folder, 
+select Show more options, 
+and then select Scan with Microsoft Defender. 
+When the scan is complete, 
+you'll see the Scan options page letting you know the results of the scan.
 
 ## Buy me a coffee
 If you found this hotkey app useful for your hell diver 2 game, please https://buymeacoffee.com/edwintkh 
