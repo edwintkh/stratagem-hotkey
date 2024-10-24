@@ -2,6 +2,9 @@
 Launch your stratagem with a shortcut key!
 Stratagem Hotkeys is designed as a companion tool to help new players for the Hell Divers 2 game. "The only good bug is a dead bug."
 
+![Select stratagems to use](https://github.com/edwintkh/stratagem-hotkey/blob/main/stratagem.png?raw=true)
+
+
 ## Installation
 
 [Download](/win-x64/StratagemHotkeys.exe)
