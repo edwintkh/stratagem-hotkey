@@ -5,6 +5,8 @@ Stratagem Hotkeys is designed as a companion tool to help new players for the He
 ![Select stratagems to use](https://github.com/edwintkh/stratagem-hotkey/blob/main/stratagem.png?raw=true)
 
 
+![Bind your keys](https://github.com/edwintkh/stratagem-hotkey/blob/main/binding.png?raw=true)
+
 ## Installation
 
 [Download](/win-x64/StratagemHotkeys.exe)
