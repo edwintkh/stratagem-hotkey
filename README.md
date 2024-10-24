@@ -51,7 +51,6 @@ Version 1.0.0.0
 - Stratagem keys are not tested fully yet. Current version is released for testing purposes only.
 - Initial release
 
-Software Licence
-GNU GENERAL PUBLIC LICENSE
+
 
 
