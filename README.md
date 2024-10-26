@@ -36,6 +36,10 @@ If you found a bug or u have interesting ideas for the app, please report it her
 
 
 ## Version Release Note:
+Version 1.0.1.2
+- Fix resize ui issues.
+- Optimised stratagem activation speed. 
+
 Version 1.0.1.1
 - Various UX changes to enhance UX
 - Fixed bugs for longer hokeys not called successfully
