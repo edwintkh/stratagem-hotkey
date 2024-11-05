@@ -34,8 +34,17 @@ If you found a bug or u have interesting ideas for the app, please report it her
 - Turn on or off the hotkeys anytime.
 - Mouse middle, mouse 4 and mouse 5 keys are added to the hotkey list
 
+## RoadMap:
+- Option for stratagem activation speed
+- Additional non listed stratagem e.g. hellbomb
+- Additional non letter keys for hotkeys e.g. PgUp, Insert,etc
+- Allow adding of additional hotkeys
+- Hotkey to bring this app to the foreground while in-game
 
 ## Version Release Note:
+Version 1.0.1.3 
+- Added Support for Non WASD direction keys
+
 Version 1.0.1.2
 - Fix resize ui issues.
 - Optimised stratagem activation speed. 
